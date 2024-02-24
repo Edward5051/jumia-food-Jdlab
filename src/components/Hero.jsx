@@ -1,4 +1,4 @@
-import Pinlogo from './pinmap.svg'
+import Pinlogo from '../assets/pinmap.svg'
 
 export default function Hero() {
     return (

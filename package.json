@@ -13,9 +13,13 @@
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "headlessui": "^0.0.0",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-normalize": "^10.0.1",
+    "postcss-preset-env": "^9.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.0",
+    "react-scripts": "^5.0.1",
     "tw-elements-react": "^1.0.0-alpha1"
   },
   "devDependencies": {
